@@ -1,7 +1,0 @@
----
-published: true
-title: Hey hey
-layout: post
-tags: [tag]
----
-Garlic fries
