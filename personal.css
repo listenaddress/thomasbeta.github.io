@@ -4,11 +4,11 @@ body {
 	font-size: 0.9em;
 }
 a:link {
-    text-decoration: none;
+	text-decoration: none;
 }
 
 a:visited, a:active {
-    text-decoration: none;
+	text-decoration: none;
 }
 .contentWrapper {
 	width: 100%;
@@ -17,11 +17,12 @@ a:visited, a:active {
 }
 .contact {
 	height: 100px;
-    line-height: 2.5;
-    font-weight: 200;
-    font-size: 12.5px;
-    font-style: italic;
-    display: inline;
+	line-height: 2.5;
+	font-weight: 200;
+	font-size: 12.5px;
+	font-style: italic;
+	display: inline;
+	text-decoration: underline;
 }
 .contact a {
 	color: #faa63c;
@@ -69,12 +70,12 @@ a:visited, a:active {
 }
 
 .projectDescription {
-  letter-spacing: 0.5px;
-  padding-top: 9px;
-  font-size: 12px;
-  padding-bottom: 12px;
-  line-height: 1.6;
-  font-weight: 200;
+	letter-spacing: 0.5px;
+	padding-top: 9px;
+	font-size: 12px;
+	padding-bottom: 12px;
+	line-height: 1.6;
+	font-weight: 200;
 }
 
 @media (min-width: 880px) {
@@ -87,8 +88,8 @@ a:visited, a:active {
 		top: 60px;
 	}
 	.contact {
-	  position: absolute;
-	  top: 60px;
+		position: absolute;
+		top: 60px;
 	}
 	.projects {
 		position: relative;
@@ -110,8 +111,8 @@ a:visited, a:active {
 
 @media (max-width: 880px) {
 	body {
-		  font-size: 0.88em;
-		  margin: 8%;
+		font-size: 0.88em;
+		margin: 8%;
 	}
 	.contact {
 		display: block;
