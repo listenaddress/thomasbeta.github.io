@@ -168,6 +168,8 @@ a:visited, a:active {
 	.contact a {
 		display: inline;
 		padding-right: 10px;
+	}
+	.contact {
 		text-decoration: none;
 	}
 }
