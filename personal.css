@@ -22,7 +22,6 @@ a:visited, a:active {
 	font-size: 12.5px;
 	font-style: italic;
 	display: inline;
-	text-decoration: underline;
 }
 .contact a {
 	color: #faa63c;
@@ -168,9 +167,6 @@ a:visited, a:active {
 	.contact a {
 		display: inline;
 		padding-right: 10px;
-	}
-	.contact {
-		text-decoration: none;
 	}
 }
 
