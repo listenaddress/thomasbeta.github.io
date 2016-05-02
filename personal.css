@@ -163,7 +163,7 @@ a:visited, a:active {
 	}
 }
 
-@media (max-height: 666px) and (min-width: 880px) {
+@media (max-height: 750px) and (min-width: 880px) {
 	.contact a {
 		display: inline;
 		padding-right: 10px;
@@ -179,7 +179,7 @@ a:visited, a:active {
 	}
 	.picture {
 		position: relative;
-		padding-top: 140px;
+		padding-top: 242px;
 	}
 }
 
